@@ -29,4 +29,6 @@ This frontend consumes REST APIs exposed by the `todo-simple-backend` using **Ax
 
 This frontend communicates with a Spring Boot backend via REST APIs.
 
-Base API URL:
+SNIP: 
+
+<img width="3398" height="1968" alt="image" src="https://github.com/user-attachments/assets/f09672a6-2a84-4322-9a82-0feee676e472" />
